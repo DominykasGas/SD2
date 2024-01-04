@@ -1,0 +1,2 @@
+C:\Users\gaspe\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\x64\Release\CppCLR_WinformsProjekt1.Form1.resources
+C:\Users\gaspe\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\x64\Release\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache
